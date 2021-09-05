@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "2269e33c023564f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fefbcf426ee21633",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "相關設定/我的第一個程式.md",
+            "mode": "source"
+          }
+        },
+        "group": "b738df3f52649b91"
+      },
+      {
+        "id": "0fb701ba0edb45ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "相關設定/我的第一個程式.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b738df3f52649b91"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "546be8470d07851e",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c3cf8d32e85eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5680b7aea2475516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "678f75825979f79e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c517089a61bd7035",
+    "type": "split",
+    "children": [
+      {
+        "id": "be8499d007d42ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12acaef90a3b6863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "相關設定/我的第一個程式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fefbcf426ee21633",
+  "lastOpenFiles": [
+    "相關設定/我的第一個程式.md",
+    "相關設定/未命名.md",
+    "未命名.md",
+    "CSharp 簡介.md"
+  ]
+}
