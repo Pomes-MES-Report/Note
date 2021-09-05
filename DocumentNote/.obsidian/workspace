@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "74eed68185185124",
+    "type": "split",
+    "children": [
+      {
+        "id": "303948d0e9e4dab6",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be3bd0989d984520",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bff9a0e263f4c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be3ca201a181b074",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98a1ec45185ae035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64dcdc813d2fa7db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f9bb59075241ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e30f36beb7df151",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "303948d0e9e4dab6",
+  "lastOpenFiles": [
+    "MES/WIP在製品管理/生產管理/MET030A - 製令投產作業.md",
+    "MES/WIP在製品管理/生產管理/MET010A - 製令維護作業.md",
+    "MES/WIP在製品管理/生產管理/MET020A - 製令排程作業.md",
+    "資料庫/WMT06_0100.md",
+    "資料庫/MET03_0100.md",
+    "WMT06_0100.md",
+    "資料庫/MET03_0000.md",
+    "資料庫/MET01_0100.md",
+    "MET03_0100.md",
+    "MET03_0000.md"
+  ]
+}
