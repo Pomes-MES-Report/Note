@@ -10,18 +10,17 @@
 
 ## 二、UI 介面
  搜尋頁面
-> ![[Pasted image 20210905181409.png]]
-![](../../../Pasted image 20210905181409.png)
+![[Pasted image 20210905181409.png]]
 <img src="../../../Pasted image 20210905181409.png" width=250 alt="LINE QR" />
 
 -> 新增畫面
-> ![[Pasted image 20210904224035.png]]
+![[Pasted image 20210904224035.png]]
 <img src="../../../Pasted image 20210904224035.png" width=250 alt="LINE QR" />
 
 
--> 修改畫面
-> ![[Pasted image 20210905191315.png]]
-<img src="../../../Pasted image 20210904224035.png" width=250 alt="LINE QR" />
+-> 修改畫面 
+![[Pasted image 20210905191315.png]]
+<img src="../../../Pasted image 20210905191315.png" width=250 alt="LINE QR" />
 
 
 
