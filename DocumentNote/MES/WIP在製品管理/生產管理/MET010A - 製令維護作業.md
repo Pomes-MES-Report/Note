@@ -9,9 +9,9 @@
 > 讓使用者可以清楚看到需要用的數量、標準量、出貨時間等。
 
 ## 二、UI 介面
- -> 搜尋頁面
+ 搜尋頁面
 ![[Pasted image 20210905181409.png]]
-
+<img src="../../Pasted image 20210905181409.png" width=200 height=200 alt="LINE QR" />
 -> 新增畫面
 > ![[Pasted image 20210904224035.png]]
 
