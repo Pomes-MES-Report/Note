@@ -11,7 +11,7 @@
 ## 二、UI 介面
  -> 搜尋頁面
 > ![[Pasted image 20210905181409.png]]
-> ![alt text](https://github.com/Pomes-MES-Report/Note/tree/main/DocumentNote/Pasted image 20210905181409.png)
+ ![alt text](https://github.com/Pomes-MES-Report/Note/tree/main/DocumentNote/Pasted image 20210905181409.png)
 
 -> 新增畫面
 > ![[Pasted image 20210904224035.png]]
