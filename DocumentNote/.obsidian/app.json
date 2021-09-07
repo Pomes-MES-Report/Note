@@ -1,4 +1,9 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/"
 }

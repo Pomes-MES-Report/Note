@@ -8,21 +8,5 @@
 > 製令維護作業主要功能設定製令號碼、工單號碼、用料明細為主之作業。
 > 讓使用者可以清楚看到需要用的數量、標準量、出貨時間等。
 
-## 二、UI 介面
-[] 搜尋頁面
-![[Pasted image 20210905181409.png]]
-<img src="../../../Pasted image 20210905181409.png" width=250 alt="LINE QR" />
 
--> 新增畫面
-![[Pasted image 20210904224035.png]]
-<img src="../../../Pasted image 20210904224035.png" width=250 alt="LINE QR" />
-
-
--> 修改畫面 
-![[Pasted image 20210905191315.png]]
-<img src="../../../Pasted image 20210905191315.png" width=250 alt="LINE QR" />
-
-
----
-
-
+## 二、操作

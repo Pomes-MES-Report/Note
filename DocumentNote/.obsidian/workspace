@@ -7,8 +7,22 @@
         "id": "303948d0e9e4dab6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "資料庫/MEB23_0000.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "198f4cc245cf65ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MES/WIP在製品管理/生產管理/MET010A - 製令維護作業.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "資料庫/MEB23_0000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +99,15 @@
   },
   "active": "303948d0e9e4dab6",
   "lastOpenFiles": [
-    "MES/WIP在製品管理/生產管理/MET030A - 製令投產作業.md",
-    "MES/WIP在製品管理/生產管理/MET010A - 製令維護作業.md",
+    "資料庫/MEB23_0000.md",
+    "資料庫/MEB12_0000.md",
+    "資料庫/BDP08_0000.md",
+    "資料庫/BDP21_0000.md",
     "MES/WIP在製品管理/生產管理/MET020A - 製令排程作業.md",
-    "資料庫/WMT06_0100.md",
-    "資料庫/MET03_0100.md",
-    "WMT06_0100.md",
-    "資料庫/MET03_0000.md",
-    "資料庫/MET01_0100.md",
-    "MET03_0100.md",
-    "MET03_0000.md"
+    "MES/WIP在製品管理/生產管理/MET010A - 製令維護作業.md",
+    "MES/WIP在製品管理/生產管理/MET030A - 製令投產作業.md",
+    "Pasted image 20210904224035.png",
+    "Pasted image 20210905181409.md",
+    "資料庫/WMT06_0100.md"
   ]
 }
