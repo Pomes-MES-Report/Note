@@ -9,7 +9,7 @@
 > 讓使用者可以清楚看到需要用的數量、標準量、出貨時間等。
 
 ## 二、UI 介面
- 搜尋頁面
+[] 搜尋頁面
 ![[Pasted image 20210905181409.png]]
 <img src="../../../Pasted image 20210905181409.png" width=250 alt="LINE QR" />
 
@@ -23,6 +23,6 @@
 <img src="../../../Pasted image 20210905191315.png" width=250 alt="LINE QR" />
 
 
-
+---
 
 
