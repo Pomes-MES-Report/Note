@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "74eed68185185124",
+    "id": "59a3268c2377659b",
     "type": "split",
     "children": [
       {
-        "id": "83cb400f30db6a5f",
+        "id": "7e60fef3f209bdad",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be3bd0989d984520",
+    "id": "6d40aade6687116e",
     "type": "split",
     "children": [
       {
-        "id": "8bff9a0e263f4c91",
+        "id": "d9b6f8f99ede9118",
         "type": "tabs",
         "children": [
           {
-            "id": "be3ca201a181b074",
+            "id": "cd5573b4d12f3e40",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "98a1ec45185ae035",
+            "id": "e828689fac651aa5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "64dcdc813d2fa7db",
+    "id": "b5679a0e342baf6a",
     "type": "split",
     "children": [
       {
-        "id": "8f9bb59075241ea3",
+        "id": "f7fb26687920104a",
         "type": "tabs",
         "children": [
           {
-            "id": "8e30f36beb7df151",
+            "id": "cbaf9c07bcb2cd69",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,17 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83cb400f30db6a5f",
-  "lastOpenFiles": [
-    "MEB30_0000.md",
-    "資料庫/BDP08_0000.md",
-    "WMT06_0000.md",
-    "資料庫/MET03_0000.md",
-    "資料庫/MEB12_0000.md",
-    "資料庫/MET01_0100.md",
-    "資料庫/MEB20_0000.md",
-    "資料庫/MET03_0100.md",
-    "資料庫/WMT06_0100.md",
-    "資料庫/MEB23_0000.md"
-  ]
+  "active": "7e60fef3f209bdad",
+  "lastOpenFiles": []
 }

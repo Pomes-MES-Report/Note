@@ -22,23 +22,30 @@
       }
     },
     {
-      "query": "",
+      "query": "path:MES",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.31123595505618,
+  "lineSizeMultiplier": 1.36629213483146,
+  "collapse-forces": false,
+  "centerStrength": 0.882022471910112,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000049,
+  "linkDistance": 30,
+  "scale": 0.7132754626224512,
   "close": false
 }
