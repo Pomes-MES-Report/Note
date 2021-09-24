@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag:#同步資料",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:更新同步資料",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7132754626224512,
+  "scale": 1.0000000000000162,
   "close": false
 }
