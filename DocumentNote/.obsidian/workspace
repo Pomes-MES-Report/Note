@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "83cb400f30db6a5f",
+        "id": "8ff702305117a165",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83cb400f30db6a5f",
+  "active": "8ff702305117a165",
   "lastOpenFiles": [
-    "MEB30_0000.md",
-    "資料庫/BDP08_0000.md",
-    "WMT06_0000.md",
-    "資料庫/MET03_0000.md",
-    "資料庫/MEB12_0000.md",
-    "資料庫/MET01_0100.md",
-    "資料庫/MEB20_0000.md",
-    "資料庫/MET03_0100.md",
-    "資料庫/WMT06_0100.md",
-    "資料庫/MEB23_0000.md"
+    "更新同步資料/使用 VS  2019 工具.md",
+    "資料庫/BDP/BDP37_0000.md",
+    "資料庫/BDP/BDP32_0000.md",
+    "資料庫/BDP/BDP31_0000.md",
+    "資料庫/BDP/BDP21_0100.md",
+    "資料庫/BDP/BDP21_0000.md",
+    "資料庫/BDP/BDP08_0000.md",
+    "資料庫/BDP/BDP04_0000.md",
+    "資料庫/BDP/BDP03_0000.md",
+    "BDP31_0000.md"
   ]
 }
