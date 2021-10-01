@@ -4,15 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff702305117a165",
+        "id": "e60793b6d1b285e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "資料庫/MEB12_0000.md",
+            "file": "報工系統/RTR020A - 進站開工.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "e96484a64f8e93ca"
+      },
+      {
+        "id": "accdcc17cf0e3977",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "報工系統/RTR020A - 進站開工.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": true,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "e96484a64f8e93ca"
       }
     ],
     "direction": "vertical"
@@ -40,7 +77,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資料庫/MEB12_0000.md",
+                "file": "報工系統/RTR020A - 進站開工.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ff702305117a165",
+  "active": "e60793b6d1b285e7",
   "lastOpenFiles": [
-    "資料庫/MEB12_0000.md",
-    "資料庫/MEB23_0000.md",
-    "資料庫/BDP/BDP04_0000.md",
-    "資料庫/BDP/BDP37_0000.md",
-    "更新同步資料/使用 VS  2019 工具.md",
-    "資料庫/BDP/BDP32_0000.md",
-    "資料庫/BDP/BDP31_0000.md",
-    "資料庫/BDP/BDP21_0100.md",
-    "資料庫/BDP/BDP21_0000.md",
-    "資料庫/BDP/BDP08_0000.md"
+    "報工系統/RTR020A - 進站開工.md",
+    "報工系統/RTR010A - 上下工.md",
+    "報工系統/RTR020A - 進佔開工.md",
+    "報工系統/RTR020A-進佔開工.md",
+    "RTR020A-進佔開工.md",
+    "MED01_0000.md",
+    "MED01_0100.md",
+    "資料庫/MES/MEB20_0000.md",
+    "RTR010A - 上下工.md",
+    "報工系統/RTR000A - 機台設定.md"
   ]
 }
