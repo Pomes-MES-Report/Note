@@ -9,47 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "報工系統/RTR020A - 進站開工.md",
+            "file": "報工系統/RTR020B - 出站完工.md",
             "mode": "source"
           }
-        },
-        "group": "e96484a64f8e93ca"
-      },
-      {
-        "id": "accdcc17cf0e3977",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "報工系統/RTR020A - 進站開工.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": true,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "e96484a64f8e93ca"
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "報工系統/RTR020A - 進站開工.md",
+                "file": "報工系統/RTR020B - 出站完工.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +88,15 @@
   },
   "active": "e60793b6d1b285e7",
   "lastOpenFiles": [
+    "報工系統/RTR020B - 出站完工.md",
     "報工系統/RTR020A - 進站開工.md",
+    "未命名.md",
     "報工系統/RTR010A - 上下工.md",
-    "報工系統/RTR020A - 進佔開工.md",
-    "報工系統/RTR020A-進佔開工.md",
-    "RTR020A-進佔開工.md",
-    "MED01_0000.md",
-    "MED01_0100.md",
-    "資料庫/MES/MEB20_0000.md",
-    "RTR010A - 上下工.md",
-    "報工系統/RTR000A - 機台設定.md"
+    "BDP36_0000.md",
+    "資料庫/BDP/BDP37_0000.md",
+    "資料庫/BDP/BDP11_0000.md",
+    "資料庫/BDP/BDP10_0000.md",
+    "資料庫/BDP/BDP09_0200.md",
+    "資料庫/BDP/BDP09_0100.md"
   ]
 }
