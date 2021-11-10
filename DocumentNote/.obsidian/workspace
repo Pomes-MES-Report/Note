@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40e0b17c6558278b",
+        "id": "502eac418ddb8e71",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "報工系統/RTR020A - 進站開工.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "報工系統/RTR020A - 進站開工.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40e0b17c6558278b",
+  "active": "502eac418ddb8e71",
   "lastOpenFiles": [
     "報工系統/RTR020A - 進站開工.md",
-    "報工系統/RTR020B - 出站完工.md",
-    "資料庫/MES/MED02_0000.md",
     "報工系統/RTR010A - 上下工.md",
-    "MED02_0000.md",
-    "MED08_0000.md",
+    "報工系統/RTR020B - 出站完工.md",
+    "資料庫/MES/MEB12_0000 1.md",
     "資料庫/MES/MEB12_0000.md",
-    "報工系統/RTR000A - 機台設定.md",
-    "未命名.md",
-    "BDP36_0000.md"
+    "MEM01_0000.md",
+    "資料庫/MES/MEB11_0000.md",
+    "資料庫/MES/MED02_0000.md",
+    "MED02_0000.md",
+    "MED08_0000.md"
   ]
 }
