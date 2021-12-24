@@ -5,5 +5,7 @@
   "foldIndent": true,
   "foldHeading": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "/"
+  "newFileFolderPath": "/",
+  "legacyEditor": false,
+  "livePreview": true
 }
